@@ -1,0 +1,16 @@
+.welcome{
+  width: 90%;
+  /* flex-direction: column; */
+}
+
+section{
+  margin: 10px;
+  cursor: pointer;
+}
+
+.card1{
+  width: 20%;
+  height: 20px;
+  padding: 10px;
+}
+
